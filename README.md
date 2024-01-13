@@ -1,2 +1,2 @@
 # Quote-Generator
-In this I made a website by using the tailwind and this is responsive
+Demo Link :->  https://shahidjmi.github.io/Quote-Generator/
